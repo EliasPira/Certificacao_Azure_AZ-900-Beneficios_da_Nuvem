@@ -17,7 +17,7 @@ Este repositório reúne os principais conceitos e benefícios da computação e
 ---
 ## 📚 Benefícios da Computação em Nuvem
 
-| Benefício         | Descrição |
+| Beneficio         | Descrição |
 |-------------------|-----------|
 | **Alta disponibilidade** | Garantia de funcionamento contínuo mesmo diante de falhas ou interrupções. |
 | **Escalabilidade** | Ajuste dinâmico de recursos conforme a demanda, com controle de custos. |
